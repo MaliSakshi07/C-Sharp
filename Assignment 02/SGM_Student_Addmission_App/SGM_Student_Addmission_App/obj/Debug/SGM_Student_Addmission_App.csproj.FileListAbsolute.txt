@@ -1,0 +1,38 @@
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.exe.config
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.exe
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.pdb
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.AssemblyReference.cache
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Login.resources
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.Properties.Resources.resources
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.GenerateResource.cache
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.CoreCompileInputs.cache
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.exe
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.pdb
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Add_Student_Information.resources
+C:\Users\anike\OneDrive\bin\SAKSHI\C#\Assignment 01\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Student_List.resources
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.exe.config
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.exe
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.pdb
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.AssemblyReference.cache
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Add_Student_Information.resources
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Login.resources
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Search_Student_By_Roll_No.resources
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Student_List.resources
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.Properties.Resources.resources
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.GenerateResource.cache
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.CoreCompileInputs.cache
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.exe
+C:\Users\anike\OneDrive\Desktop\SAKSHI\C#\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.pdb
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.exe.config
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.exe
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\bin\Debug\SGM_Student_Addmission_App.pdb
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.AssemblyReference.cache
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Add_Student_Information.resources
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Login.resources
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Search_Student_By_Roll_No.resources
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.frm_Student_List.resources
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.Properties.Resources.resources
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.GenerateResource.cache
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.csproj.CoreCompileInputs.cache
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.exe
+D:\SAKSHI\C#\Assignment 02\SGM_Student_Addmission_App\SGM_Student_Addmission_App\obj\Debug\SGM_Student_Addmission_App.pdb
